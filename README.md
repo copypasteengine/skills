@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25756426/README.md)
 # Cursor Skills
 
 个人 / 团队 Cursor Agent 技能集合。
