@@ -16,7 +16,7 @@
 4. 选择 **Remote Rule (GitHub)**
 5. 输入本仓库 URL：
    ```
-   https://github.com/你的用户名/skills
+   https://github.com/copypasteengine/skills
    ```
 
 安装后，仓库内所有技能将可供 Cursor Agent 使用。
